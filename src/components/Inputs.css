@@ -1,0 +1,32 @@
+.inputsContainer{
+    display: flex;
+    justify-content: flex-start;
+    
+    margin: 0 auto;
+    margin-top: 20px;
+   
+}
+
+
+.icon2contaier{
+    align-self: flex-end;
+}
+input{
+    margin-left: 80px;
+    width: 100%;
+    height: 35px;
+}
+.inputCont{
+    margin-left: 40px;
+}
+.btn:hover{
+    font-size: 20px;
+}
+.btn{
+    transition: all 100ms;
+    font-weight: bold;
+   
+}
+span{
+    margin: 5px 0;
+}

@@ -1,0 +1,21 @@
+.flexTime{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+ 
+}
+p{
+    margin: 0 auto;
+    color: rgb(248, 242, 242);
+}
+span{
+    font-weight: 500;
+}
+.temp{
+    font-size: 38px;
+}
+.miniInfo{
+    margin-bottom: 15px;
+}
+

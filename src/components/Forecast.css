@@ -1,0 +1,31 @@
+
+
+.title{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 500px;
+    
+ 
+}
+.titleBlock{
+    margin: 0 auto;
+}
+.line{
+    color: rgba(240, 239, 247, 0.897);
+    font-size: 6px;
+}
+
+.forecastContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.forecastCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.degree{
+    font-size: 30px;
+}

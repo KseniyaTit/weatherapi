@@ -1,0 +1,37 @@
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.sunset{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+}
+.iconSunset{
+    margin-right: 10px;
+}
+.mainIcon{
+    width: 150px;
+}
+.iconAndDegree{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.temp{
+    color: white;
+}
+.miniInfo{
+    display: flex;
+}
+.mainCity{
+    font-size: 40px;
+    color: white;
+}
+.details{
+    font-size: 20px;
+}

@@ -1,0 +1,11 @@
+.buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+    
+    
+}
+.btn{
+    
+}
